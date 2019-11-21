@@ -8,7 +8,7 @@ Creating a new branch is quick and simple.
 <<<<<<< Updated upstream
 Git is free software
 =======
-Creating a new branch is quick and simple
+Creating a new branch iiiiids quick and simple
 Git is a free software.
 >>>>>>> issoe-101
 Creating a new branch is quick AND simple
@@ -16,3 +16,4 @@ Creating a new branch is quick AND simple
 Creating a new branch is quick AND simp
 ddad dasdasd i
 >>>>>>> Stashed changeiiidadadadadadas
+123456
